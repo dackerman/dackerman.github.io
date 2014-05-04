@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>dackerman's Blog</title>
+ <link href="http://dackerman.github.io/atom.xml" rel="self"/>
+ <link href="http://dackerman.github.io/"/>
+ <updated>2014-05-04T10:01:46-07:00</updated>
+ <id>http://dackerman.github.io</id>
+ <author>
+   <name>David Ackerman</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello, World</title>
+   <link href="http://dackerman.github.io/blog/hello-world"/>
+   <updated>2014-05-04T00:00:00-07:00</updated>
+   <id>http://dackerman.github.io/blog/hello-world</id>
+   <content type="html">&lt;h1&gt;Hi, There.&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#39;m David Ackerman, an engineer living and working in the Bay Area.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -1,0 +1,47 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		dackerman's Blog
+tagline:	'blog'
+description:	'Snapshots of what I\m thinking, ordered by time.'
+url:		http://dackerman.github.io
+
+author:
+  name:		'David Ackerman'
+  url:		https://david-ackerman.com
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/self.jpg
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dackerman
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/dackerman
+    desc:	Check out my public github
+
+  - icon:	feed
+    url:	http://camporez.com/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about.html
+    
+copyright:
+  author:	David Ackerman
+  url:		http://david-ackerman.com
+  type_title:	All rights reserved
